@@ -6,4 +6,5 @@ payload:
   - DOMAIN-SUFFIX,helpshift.com
   - DOMAIN-SUFFIX,paragon.com
   - DOMAIN-SUFFIX,unrealengine.com
+  - IP-CIDR,192.168.100.0/24
 
