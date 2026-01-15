@@ -1,0 +1,3 @@
+# 我的直连规则
+payload:
+  - DOMAIN-SUFFIX,rfchost.com
