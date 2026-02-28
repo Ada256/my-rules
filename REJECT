@@ -1,0 +1,6 @@
+# 拒绝规则
+payload:
+  - DOMAIN-SUFFIX,pcdn.biliapi.net
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+  - DOMAIN-SUFFIX,szbdyd.com
+  - DOMAIN-SUFFIX,bilivideo.com
