@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,rfchost.com
   - DOMAIN-SUFFIX,uhdnow.com
   - DOMAIN-SUFFIX,longemby.com
-  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,longemby.top
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,withgoogle.com
