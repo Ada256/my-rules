@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,longemby.top
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,withgoogle.com
-
+  - IP-CIDR,142.171.21.13/32
 
 
 
