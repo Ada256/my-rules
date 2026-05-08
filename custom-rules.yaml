@@ -9,9 +9,7 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,rfchost.com
   - DOMAIN-SUFFIX,uhdnow.com
-  - DOMAIN-SUFFIX,longemby.com
   - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,longemby.top
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,withgoogle.com
   - IP-CIDR,142.171.21.13/32,no-resolve
