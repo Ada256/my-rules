@@ -1,3 +1,5 @@
 # 我的直连规则
 payload:
   - DOMAIN-SUFFIX,zhiduodev.com
+  - DOMAIN-SUFFIX,longemby.top
+  - DOMAIN-SUFFIX,longemby.com
