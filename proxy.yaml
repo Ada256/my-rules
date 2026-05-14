@@ -340,4 +340,6 @@ payload:
   - IP-CIDR6,2803:f800::/32
   - IP-CIDR6,2a06:98c0::/29
   - IP-CIDR6,2c0f:f248::/32
+  - DOMAIN-SUFFIX,argent.net 
+  - DOMAIN-SUFFIX,zendesk.com
 
