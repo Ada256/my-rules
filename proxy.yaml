@@ -913,3 +913,4 @@ payload:
   - IP-CIDR,54.93.124.31/32
   - IP-ASN,32934
   - DOMAIN-SUFFIX,doppiocdn.org
+  - DOMAIN-SUFFIX,nodeimage.com
