@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,withgoogle.com
-  - IP-CIDR,142.171.21.13/32,no-resolve
+  - IP-CIDR,23.238.31.166/32,no-resolve
 
 
 
