@@ -1,5 +1,6 @@
 # NAME: proxy
 payload:
+  - DOMAIN-SUFFIX,mymypic.net
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
