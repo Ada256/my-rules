@@ -916,3 +916,4 @@ payload:
   - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,hare200.com
   - DOMAIN-SUFFIX,mymyatt.net
+  - DOMAIN-SUFFIX,sntp.uk
