@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,withgoogle.com
   - IP-CIDR,23.238.31.166/32,no-resolve
+  - IP-CIDR,23.169.169.44/32,no-resolve
 
 
 
