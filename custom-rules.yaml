@@ -15,6 +15,7 @@ payload:
   - IP-CIDR,23.238.31.166/32,no-resolve
   - IP-CIDR,23.169.169.44/32,no-resolve
   - DOMAIN-SUFFIX,v2rayssr.com
+  - IP-CIDR,38.38.250.153/32,no-resolve
 
 
 
