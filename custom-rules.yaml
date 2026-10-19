@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,paragon.com
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,ldstatic.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-KEYWORD,nodeseek
   - DOMAIN-SUFFIX,rfchost.com
